@@ -35,4 +35,4 @@ Feel free to reach out if you're interested in collaborating on **computer visio
 
 ---
 
-⭐️ From [Your Name](https://github.com/akhilswarop)
+⭐️ From [akhilswarop](https://github.com/akhilswarop)
