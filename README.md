@@ -1,8 +1,6 @@
 # Hi there, I'm Akhil! 👋
 <img src="https://myreadme.vercel.app/api/embed/akhilswarop?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilswarop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
 
 ## 👨‍💻 About Me
 I am a Computer Science and Engineering student at [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), specializing in **Computer Vision** and **Image Processing**. My passion lies in exploring **emerging technologies** such as **Augmented Reality (AR)** and **Virtual Reality (VR)**, as well as applying cutting-edge techniques in **software development** to solve real-world problems.
