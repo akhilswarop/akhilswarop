@@ -7,6 +7,8 @@ I am a Computer Science and Engineering student at [Amrita Vishwa Vidyapeetham](
 - 🔭 I'm working on a project titled **Food Data Analytics**, exploring data-driven insights in the food industry.
 - 🤝 I’m looking to collaborate on **computer vision** and **AI-based projects**.
 - 💡 I’m open to internships to gain practical experience in applying my academic knowledge to real-world challenges.
+## I do LeetCode too 🤓
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=akhilswarop)](https://github.com/KnlnKS/leetcode-stats)
 
 ## 🔧 Tech Stack
 - **Languages**: Python, Java, C++, SQL
