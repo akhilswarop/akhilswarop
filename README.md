@@ -2,8 +2,12 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/akhilswarop?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Reimagined ReadMe" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilswarop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="width: 48%;"/>
+  <div style="display: inline-block;">
+    <img src="https://myreadme.vercel.app/api/embed/akhilswarop?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Reimagined ReadMe" style="width: 400px;"/>
+  </div>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilswarop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="width: 400px;"/>
+  </div>
 </div>
 
 
