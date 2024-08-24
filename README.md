@@ -38,8 +38,7 @@ I am a Computer Science and Engineering student at [Amrita Vishwa Vidyapeetham](
 - **Roll Number Parsing**: Developing a Java application to parse and infer campus, department, and other details from student roll numbers using ANTLR.
 
 ## 📫 Get in Touch
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/akhil-swarop-a5ba91185/)
-- Email: akhiltheswarop@gmail.com
+<a href="https://www.linkedin.com/in/akhil-swarop-a5ba91185/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## 💬 Let's Collaborate!
 Feel free to reach out if you're interested in collaborating on **computer vision**, **data science**, or **AI projects**, or if you want to talk about emerging technologies like **AR/VR**.
