@@ -1,8 +1,8 @@
 # Hi there, I'm Akhil! 👋
+
 ## GitHub Stats
 
 | ![Reimagined ReadMe](https://myreadme.vercel.app/api/embed/akhilswarop?panels=userstatistics,toprepositories,toplanguages,commitgraph) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akhilswarop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) |
-
 |:-------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 
 
