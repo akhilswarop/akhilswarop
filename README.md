@@ -1,10 +1,11 @@
 # Hi there, I'm Akhil! 👋
 ## GitHub Stats
+## GitHub Stats
 
-<div style="display: block;">
-    <img src="https://myreadme.vercel.app/api/embed/akhilswarop?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Reimagined ReadMe" style="width: 400px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilswarop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" style="width: 400px;"/>
-</div>
+| ![Reimagined ReadMe](https://myreadme.vercel.app/api/embed/akhilswarop?panels=userstatistics,toprepositories,toplanguages,commitgraph) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akhilswarop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) |
+|:-------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
+
+
 
 
 
