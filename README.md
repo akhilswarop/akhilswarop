@@ -2,7 +2,7 @@
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akhilswarop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) |
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=akhilswarop&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark) 
 
 
 
