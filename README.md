@@ -6,7 +6,7 @@
 
 ## I LeetCode too!
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/akhilswarop)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap/akhilswarop)
 
 
 
